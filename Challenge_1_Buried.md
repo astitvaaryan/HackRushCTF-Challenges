@@ -1,9 +1,5 @@
 # Challenge: Buried
 
-**Event:** HackRushCTF
-**Category:** Hidden Data (Steganography)
-**Points:** 30
-
 ## What the Challenge Was
 We were given a PDF file named `confidential.pdf`. When you open it, it looks like a normal document with some text, but certain parts are covered with black boxes, like a top-secret file. The challenge gave us a clue: "Not Everything is as it appears!"
 
